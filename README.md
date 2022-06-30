@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pyrrolizin (Peter)
 - 👀 I’m interested in automations (home automation, RPA, scripting, pipelines) and data science (ML)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on interesting projects
+- 🌱 I’m currently learning web frameworks, go
+- 💞️ I’m looking to collaborate on interesting projects (python, js, C#, ...)
 - 📫 How to reach me: DM
 
 <!---
