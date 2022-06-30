@@ -2,7 +2,7 @@
 - 👀 I’m interested in automations (home automation, RPA, scripting, pipelines) and data science (ML)
 - 🌱 I’m currently learning web frameworks, go
 - 💞️ I’m looking to collaborate on interesting projects (python, js, C#, ...)
-- 📫 How to reach me: DM
+<!-- - 📫 How to reach me: DM -->
 
 <!---
 pyrrolizin/pyrrolizin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
